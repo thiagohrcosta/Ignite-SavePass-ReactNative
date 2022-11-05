@@ -43,7 +43,8 @@ export function Home() {
 
   function handleFilterLoginData() {
     const filteredData = searchListData.filter(data => {
-      if (data.service_name.includes(searchText)) {
+      const isValid = data.service_name.toLowerCase().includes(searchText.toLowerCase())
+      if (isValid) {
         return data;
       }
     });
