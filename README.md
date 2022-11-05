@@ -21,8 +21,7 @@ A user can:
 - Add new password;
 - Search for a password.
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+
 ![](https://res.cloudinary.com/dloadb2bx/image/upload/v1667678266/Anima%C3%A7%C3%A3o5_kuzx1a.gif)  |  ![](https://res.cloudinary.com/dloadb2bx/image/upload/v1667678266/Anima%C3%A7%C3%A3o6_afbnkt.gif)
 
 
